@@ -10,10 +10,6 @@
 <h3>-React</h3>
 <h3>-Chakra UI</h3>
 
-<<<<<<< HEAD
 <h3>Website Deployed link : https://hrishikesh-gaming-event-2b6d0.netlify.app/</h3>
 
-=======
-<h3>Website Deployed link : https://reliable-pastelito-2b6d0e.netlify.app/</h3>
->>>>>>> aeceed2bbe0fcc17f1b78c6b5252fdd2232e7568
 
