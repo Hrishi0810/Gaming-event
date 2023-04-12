@@ -10,5 +10,5 @@
 <h3>-React</h3>
 <h3>-Chakra UI</h3>
 
-
+<h3>Website Deployed link : https://reliable-pastelito-2b6d0e.netlify.app/</h3>
 
