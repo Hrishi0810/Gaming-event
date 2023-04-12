@@ -1,0 +1,57 @@
+{
+    "users": [
+      {
+        "name": "hrishikesh",
+        "email": "hkesh220@gmail.com",
+        "password": "1",
+        "id": 1
+      },
+      {
+        "name": "a",
+        "email": "a",
+        "password": "a",
+        "id": 2
+      },
+      {
+        "name": "a",
+        "email": "a",
+        "password": "a",
+        "id": 3
+      },
+      {
+        "name": "a",
+        "email": "b",
+        "password": "a",
+        "id": 4
+      },
+      {
+        "name": "b",
+        "email": "c",
+        "password": "b",
+        "id": 5
+      }
+    ],
+    "games": [
+      {
+        "id": 1,
+        "name": "Catch Fish",
+        "image": "./fish.png"
+      },
+      {
+        "id": 2,
+        "name": "Punch Challenge",
+        "image": "./punch.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Bow & Arrow",
+        "image": "./arrow.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Hi Stricker",
+        "image": "./stricker.jpg"
+      }
+    ],
+    "cart": []
+  }
